@@ -1,2 +1,2 @@
 # spam-shield-api
-Detección de spam con Random Forest y FastAPI. ML aplicado a ciberseguridad
+API de detección de correo no deseado con Random Forest y FastAPI, incluyendo evaluación de métricas, pruebas de evasión y documentación responsable.
